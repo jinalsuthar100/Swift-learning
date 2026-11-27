@@ -1,5 +1,19 @@
 import Foundation
 print("Hello, World!")
+
+
+var carSpeed = 40
+print("carSpeed", carSpeed)
+carSpeed = 50
+print("carSpeed", carSpeed)
+let earthHeight = 100
+print("earthHeight",earthHeight )
+//  earthHeight = 200 // Error because let can not be changed. it's constant
+
+
+
+
+
 var greeting = "Hello, Swift!"
 print(greeting)
  
